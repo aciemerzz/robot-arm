@@ -1,6 +1,7 @@
 # robot-arm
-drawing and writing, with finger detection and tracking 
+function: drawing and writing, with finger detection and tracking 
+have been tested on pynq_z2
 
-test on pynq_z2
-
-在jupyter笔记本上运行main.py with a pynq_z2 board connected with a webcam and a hdmi monitor .
+note:
+run main.py on jupyter notebook 
+pynq_z2 board should be connected with a webcam and a hdmi monitor .
